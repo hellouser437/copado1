@@ -178,7 +178,7 @@
     <fields>
         <fullName>First_Name__c</fullName>
         <externalId>false</externalId>
-        <label>First Name</label>
+        <label>First and Name</label>
         <length>20</length>
         <required>false</required>
         <trackHistory>false</trackHistory>
